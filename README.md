@@ -1,4 +1,4 @@
-# NLW Esports
+# NLW eSports
 
 ![preview](./assets/preview.png)
 

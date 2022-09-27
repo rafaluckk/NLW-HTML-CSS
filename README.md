@@ -22,13 +22,13 @@ Você pode executar em sua máquina, apenas certifique-se de ter o Node/Yarn ins
 Clone o projeto
 
 ```bash
-  git clone https://github.com/rafaluckk/NLW-HTML-CSS.git
+  git clone https://github.com/rafaluckk/nlw-react-v2.git
 ```
 
 Vá para o diretório do projeto (você pode alterar o nome se quiser)
 
 ```bash
-  cd NLW-HTML-CSS
+  cd nlw-react-v2
 ```
 
 Instalar dependencies
